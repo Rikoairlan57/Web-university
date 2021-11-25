@@ -35,7 +35,7 @@
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuOffset">
                             <a class="dropdown-item" href="ekstrakulikuler.php">Extracurricular</a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="kontak.php">Contact Us</a>
+                            <a class="dropdown-item" href="contact.php">Contact Us</a>
                         </div>
                     </li>
                 </ul>

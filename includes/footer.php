@@ -31,7 +31,7 @@
                     <div class="footerAbout">
                         <a href="artikel.php" class="text-white">Artikel</a>
                         <a href="galeri.php" class="text-white">Gallery</a>
-                        <a href="kontak.php" class="text-white">Contact Us</a>
+                        <a href="contact.php" class="text-white">Contact Us</a>
                         <a href="ekstrakulikuler.php" class="text-white">Extracurricular</a>
                     </div>
                 </div>

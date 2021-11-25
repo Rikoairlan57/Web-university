@@ -9,7 +9,7 @@
         <form action="">
             <div class="formKontakKiri">
                 <div class="form-group">
-                    <label for="nama">Nama</label>
+                    <label for="nama">Name</label>
                     <input type="text" class="form-control" id="nama">
                 </div>
 
@@ -19,7 +19,7 @@
                 </div>
 
                 <div class="form-group">
-                    <label for="nama">No Telp</label>
+                    <label for="nama">No Phone</label>
                     <input type="number" class="form-control" id="nama">
                 </div>
             </div>
@@ -27,11 +27,11 @@
 
             <div class="formKontakKanan">
                 <div class="form-group">
-                    <label for="pesan">Pesan</label>
+                    <label for="pesan">message</label>
                     <textarea name="pesan" id="pesan" cols="30" rows="8" class="form-control"></textarea>
                 </div>
 
-                <button class="btn btn-primary float-right">Kirim</button>
+                <button class="btn btn-primary float-right">Send</button>
             </div>
         </form>
     </div>
