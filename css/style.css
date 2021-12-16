@@ -104,23 +104,15 @@ body {
 }
 
 .slideshow .img2 {
-    background-image: url("../images/banner/2.jpg");
+    background-image: url("../images/banner/design-system-accessibility.png");
 }
 
 .slideshow .img3 {
-    background-image: url("../images/banner/3.jpg");
+    background-image: url("../images/banner/sukses.jpg");
 }
 
 .slideshow .img4 {
-    background-image: url("../images/banner/4.jpg");
-}
-
-.slideshow .img5 {
-    background-image: url("../images/banner/5.jpeg");
-}
-
-.slideshow .img6 {
-    background-image: url("../images/banner/6.jpg");
+    background-image: url("../images/banner/arke.jpg");
 }
 
 .slideshow .container {

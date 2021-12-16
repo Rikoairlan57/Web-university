@@ -11,11 +11,11 @@
                 <div class="container">
                     <div class="mainText">
                         <div class="garis"></div>
-                        <h3>Our Values</h3>
-                        <h1>TEAMWORK</h1>
+                        <h1>NATIVE KNOWLEDGE</h1>
                     </div>
-
-                    <h3>Teamwork In Our Endeavours</h3>
+                    <h3>ISchool assistant professor Miranda Belarde-Lewis combines research,</h3> 
+                    <h3>teaching and curating to help reclaim how Native art is presented — and</h3> 
+                    <h3>bring Native voices to the forefront.</h3>
                 </div>
             </section>
         </li>
@@ -27,11 +27,11 @@
                 <div class="container">
                     <div class="mainText">
                         <div class="garis"></div>
-                        <h3>Our Values</h3>
-                        <h1>humility</h1>
+                        <h1>ACCESSIBLE BY DESIGN</h1>
                     </div>
-
-                    <h3>Humility In Our Accomplishments</h3>
+                    <h3>A car accident changed how doctoral student Ather Sharif thought</h3>
+                    <h3>about accessibility. Now he advocates for technology that enables</h3>
+                    <h3>people with disabilities to fit in just as they are.</h3>
                 </div>
             </section>
         </li>
@@ -43,11 +43,9 @@
                 <div class="container">
                     <div class="mainText">
                         <div class="garis"></div>
-                        <h3>Our Values</h3>
-                        <h1>Respect</h1>
+                        <h1>CHALLENGE THE WORLD</h1>
                     </div>
-
-                    <h3>Respect For One Another</h3>
+                    <h3>Your challenge the world and your get successful</h3>
                 </div>
             </section>
         </li>
@@ -59,44 +57,12 @@
                 <div class="container">
                     <div class="mainText">
                         <div class="garis"></div>
-                        <h3>Our Values</h3>
-                        <h1>integrity</h1>
+                        <h1>DISCOVERIES IN</h1>
+                        <h1>DINO COUNTRY</h1>
                     </div>
 
-                    <h3>Integrity In Our Relationships</h3>
-                </div>
-            </section>
-        </li>
-
-        <li class="item-a">
-            <section class="slideshow">
-                <img class="img5" src="images/banner/banner-shd.png" alt="Team Work">
-                <div class="shadow"></div>
-                <div class="container">
-                    <div class="mainText">
-                        <div class="garis"></div>
-                        <h3>Our Values</h3>
-                        <h1>commitment</h1>
-                    </div>
-
-                    <h3>Commitment To The Work We Undertake</h3>
-                </div>
-            </section>
-        </li>
-
-
-        <li class="item-a">
-            <section class="slideshow">
-                <img class="img6" src="images/banner/banner-shd.png" alt="Team Work">
-                <div class="shadow"></div>
-                <div class="container">
-                    <div class="mainText">
-                        <div class="garis"></div>
-                        <h3>Our Values</h3>
-                        <h1>Innovation</h1>
-                    </div>
-
-                    <h3>Innovation In Whatever We Do</h3>
+                    <h3>On a pivotal excavation in Montana, UW paleontologists, students and</h3>
+                    <h3>volunteers uncovered clues that shine light on the age of the dinosaurs.</h3>
                 </div>
             </section>
         </li>
